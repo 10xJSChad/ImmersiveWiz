@@ -4,7 +4,7 @@ A simple program to sync your Wiz lights to the average color on your screen
 
 ## Using ImmersiveWiz (Windows)
 1. Download the dependencies
-2. Run main.py
+2. Run start.py
 
 ## Using ImmersiveWiz (Linux)
 You may not.
