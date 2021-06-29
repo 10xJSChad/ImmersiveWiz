@@ -7,3 +7,5 @@ lightsOffThreshold = 30 #The total light value at which the lights turn off
 #Set to 0 to never turn lights off
 
 updateTime = 1 #How often to get the average screen color and update the lights (seconds)
+
+colorMultiplier = 1 #How much to multiply the color values by
