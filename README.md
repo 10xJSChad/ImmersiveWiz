@@ -1,5 +1,5 @@
 # ImmersiveWiz
-A simple program to sync your Wiz lights to the average color on your screen
+A simple program to sync your Wiz lightbulbs to the average color on your screen
 
 
 ## Using ImmersiveWiz (Windows)
