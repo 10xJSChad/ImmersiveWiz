@@ -9,3 +9,8 @@ lightsOffThreshold = 30 #The total light value at which the lights turn off
 updateTime = 1 #How often to get the average screen color and update the lights (seconds)
 
 colorMultiplier = 1 #How much to multiply the color values by
+
+bulbBrightness = 255 #The brightness setting of the bulbs
+
+colorToUse = "average" #Whether to use the "average" or "dominant" color of your screen
+#I recommend keeping this on average as using the dominant color is very slow at the moment
