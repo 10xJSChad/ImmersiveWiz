@@ -7,7 +7,7 @@ A simple program to sync your Wiz lightbulbs to the average color on your screen
 2. Run start.py
 
 ## Using ImmersiveWiz (Linux)
-You may not.
+You may not. (As far as I know)
 
 ## Configuration
 In config.py you can configure:
